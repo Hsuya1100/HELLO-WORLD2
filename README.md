@@ -1,5 +1,5 @@
 # HELLO-WORLD2
-My first Repository made in second attempt
+My first Repository
 LEARNING TO USE GIT 
 ENCOUNTERED MANY A THINGS BUT ON A SERIOUS NOTE I'LL GET THINGS DONE 
 SOMEHOW!!!
